@@ -1,1 +1,2 @@
 # CrosswordGenerator
+There is a crossword website called 14Across, after messing with the "make your own crossword" option they have on their site we found ourselves with a crossword that has more black slots than character slots, and that's not the site's fault, we just didn't know how to position the words so they fit the grid in a perfect way, so we decided to make an algorithm that does it, and not only we did it, the algorithm also shows your ALL of the possible combination of words on the grid.
